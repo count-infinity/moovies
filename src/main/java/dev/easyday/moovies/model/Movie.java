@@ -1,9 +1,9 @@
 package dev.easyday.moovies.model;
 
 public class Movie {
-    private String name;
-    private String description;
+    public String name;
+    public String description;
 
     // TODO: Make enum
-    private String genre;
+    public String genre;
 }
